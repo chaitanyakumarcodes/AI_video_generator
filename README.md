@@ -4,7 +4,7 @@ A Flask API that turns a book title and summary into a cinematic Instagram Video
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 book-video-generator/
@@ -155,7 +155,7 @@ This will:
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 All settings are in the `Config` class inside `app.py`:
 
@@ -177,7 +177,7 @@ VIDEO_HEIGHT = 1920
 
 ---
 
-## 🎭 Supported Genres
+##  Supported Genres
 
 Auto-detected from keywords in the summary:
 
@@ -194,7 +194,7 @@ Auto-detected from keywords in the summary:
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 - Python 3.10+
 - CUDA GPU recommended (NVIDIA T4 or better)
@@ -203,6 +203,6 @@ Auto-detected from keywords in the summary:
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — free to use, modify, and distribute.
